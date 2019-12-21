@@ -22,6 +22,7 @@ img{
 
 #details {
   display: block;
+  margin-bottom: 20px;
 }
 #details div{
   float: left;
