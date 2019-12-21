@@ -22,7 +22,6 @@ img{
 
 #details {
   display: block;
-  margin-bottom: 20px;
 }
 #details div{
   float: left;
@@ -31,4 +30,5 @@ div{
   background: red;
   text-align: center;
   width: 25%;
+  margin-bottom: 20px;
 }
