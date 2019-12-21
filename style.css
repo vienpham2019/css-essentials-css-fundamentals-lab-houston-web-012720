@@ -20,3 +20,8 @@ img{
   display: inline-block;
   text-align: center;
 }
+
+#details {
+  display: block;
+  
+}
