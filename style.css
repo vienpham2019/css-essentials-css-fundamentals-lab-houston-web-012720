@@ -2,4 +2,33 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+h1{
+  color: red;
+}
+nav a{
+  padding-left: 10px;
+  background: gray ;
+}
+img{
+  width: 900px;
+}
+
+ #featured-property p {
+  width: 800px;
+  display: inline-block;
+}
+
+#details {
+  display: block;
+}
+#details div{
+  float: left;
+}
+div{
+  background: red;
+  text-align: center;
+  width: 25%; 
+  margin-bottom: 20px;
 }
