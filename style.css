@@ -31,4 +31,6 @@ div{
   text-align: center;
   width: 25%; 
   margin-bottom: 20px;
+  border-color: black;
+  border-width: 2px;
 }
