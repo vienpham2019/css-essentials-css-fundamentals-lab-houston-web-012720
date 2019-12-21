@@ -17,6 +17,6 @@ img{
 
  p {
   width: 800px;
-  display: absolute;
+  display: inline-block;
   text-align: center;
 }
